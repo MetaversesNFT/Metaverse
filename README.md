@@ -1,8 +1,8 @@
 # Metaverse
-This repository was created by Official BlockAudit Team.
+This repository was created by Official Metaverse Team.
 
 
-/** *Submitted for verification at BscScan.com on 2021-11-03 */
+/** *Submitted for verification at MetaverseNFT on 2021-11-09 */
 
 pragma solidity ^0.6.2; // SPDX-License-Identifier: Unlicensed
 

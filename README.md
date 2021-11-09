@@ -1,7 +1,6 @@
-Metaverse
+# Metaverse
 This repository was created by Official BlockAudit Team.
 
-Certificate_META
 
 /** *Submitted for verification at BscScan.com on 2021-11-03 */
 
